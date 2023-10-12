@@ -1,0 +1,7 @@
+evadb
+pytesseract
+transformers
+opencv-python
+eva-decord
+openai
+Pillow
